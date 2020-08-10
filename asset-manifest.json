@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/HotDevJobs/static/js/main.62f615f7.chunk.js",
+    "main.js.map": "/HotDevJobs/static/js/main.62f615f7.chunk.js.map",
+    "runtime-main.js": "/HotDevJobs/static/js/runtime-main.89b719dd.js",
+    "runtime-main.js.map": "/HotDevJobs/static/js/runtime-main.89b719dd.js.map",
+    "static/js/2.f1fe30c9.chunk.js": "/HotDevJobs/static/js/2.f1fe30c9.chunk.js",
+    "static/js/2.f1fe30c9.chunk.js.map": "/HotDevJobs/static/js/2.f1fe30c9.chunk.js.map",
+    "index.html": "/HotDevJobs/index.html",
+    "precache-manifest.3a2e25196f8998c2d7a2888cebfac3c8.js": "/HotDevJobs/precache-manifest.3a2e25196f8998c2d7a2888cebfac3c8.js",
+    "service-worker.js": "/HotDevJobs/service-worker.js",
+    "static/js/2.f1fe30c9.chunk.js.LICENSE.txt": "/HotDevJobs/static/js/2.f1fe30c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89b719dd.js",
+    "static/js/2.f1fe30c9.chunk.js",
+    "static/js/main.62f615f7.chunk.js"
+  ]
+}
