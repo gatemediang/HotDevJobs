@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![HotDevJobs](/public/hotdev.PNG)
+
+View app [here](https://gatemediang.github.io/HotDevJobs)
+
 ## Available Scripts
 
 In the project directory, you can run:
